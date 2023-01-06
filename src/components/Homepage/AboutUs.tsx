@@ -3,7 +3,7 @@ import { BsFillArrowRightCircleFill } from "react-icons/bs";
 
 function AboutUs() {
   return (
-    <div className="my-32 h-screen flex flex-row items-center justify-center px-32">
+    <div className="my-32 h-screen flex flex-row items-center justify-center px-32 ">
       <section className="w-1/2 pr-10 flex flex-col gap-8">
         <h2 className="text-teal-400 text-2xl font-bold">ABOUT US</h2>
         <h1 className="font-bold text-slate-700 text-5xl">

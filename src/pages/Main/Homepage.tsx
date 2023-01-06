@@ -11,7 +11,7 @@ import Team from "../../components/Homepage/Team";
 
 function Homepage() {
   return (
-    <div>
+    <div className="bg-green-50">
       <LandingPage />
       <AboutUs />
       <Services />
