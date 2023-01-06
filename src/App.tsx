@@ -1,10 +1,10 @@
 import React from "react";
-import "./App.css";
+import Index from "./Navigation/Index";
 
 function App() {
   return (
     <div className="App">
-      <p className="text-lg font-bold">Portfolio</p>
+      <Index />
     </div>
   );
 }
