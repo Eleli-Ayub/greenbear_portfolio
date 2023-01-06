@@ -16,7 +16,7 @@ function AboutUs() {
           light to your business and pave way to success by making your product
           production ready for the competitive market.
         </p>
-        <button className=" w-1/4 py-2 self-start rounded-xxl flex flex-row gap-2 items-center justify-center bg-green-100">
+        <button className=" w-1/4 py-2 self-start rounded-xxl flex flex-row gap-2 items-center justify-center bg-green-100 hover:bg-green-500 hover:scale-105 duration-500">
           More Details{" "}
           <BsFillArrowRightCircleFill className="text-green-800 text-xl" />
         </button>
